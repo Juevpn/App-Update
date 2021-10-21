@@ -3,44 +3,44 @@
 
 {
          "name": "TrueMove-001-VIP",
-         "url": "https://juessh.000webhostapp.com/SG-VIP-001.ovpn"
+         "url": "https://juessh.000webhostapp.com/SG-SP-001.ovpn"
       },
 
 
 {
          "name": "TrueMove-002-VIP",
-         "url": "https://juessh.000webhostapp.com/SG-VIP-001.ovpn"
+         "url": "https://juessh.000webhostapp.com/SG-SP-002.ovpn"
       },
 {
          "name": "TrueMove-003-VIP",
-         "url": "https://juessh.000webhostapp.com/SG-VIP-002.ovpn"
+         "url": "https://juessh.000webhostapp.com/SG-SP-003.ovpn"
       },
 
 {
          "name": "TrueMove-004-VIP",
-         "url": "https://juessh.000webhostapp.com/SG-VIP-002.ovpn"
+         "url": "https://juessh.000webhostapp.com/SG-SP-004.ovpn"
       },
 
 
       
 {
          "name": "Dtac-90DAYS-001-VIP",
-         "url": "https://juessh.000webhostapp.com/SG-VIP-001.ovpn"
+         "url": "https://juessh.000webhostapp.com/SG-SP-001.ovpn"
       },
 
 {
          "name": "Dtac-90DAYS-002-VIP",
-         "url": "https://juessh.000webhostapp.com/SG-VIP-001.ovpn"
+         "url": "https://juessh.000webhostapp.com/SG-SP-002.ovpn"
       },
 
 
 {
          "name": "Dtac-90DAYS-003-VIP",
-         "url": "https://juessh.000webhostapp.com/SG-VIP-002.ovpn"
+         "url": "https://juessh.000webhostapp.com/SG-SP-003.ovpn"
       },
 {
          "name": "Dtac-90DAYS-004-VIP",
-         "url": "https://juessh.000webhostapp.com/SG-VIP-002.ovpn"
+         "url": "https://juessh.000webhostapp.com/SG-SP-004.ovpn"
       },
 
 {
@@ -82,7 +82,7 @@
 
 
    ],
-"message":"Update 17 October 2021\n•Add Gaming Only Server\n•Version: 10\n•30ဘတ်ကိုတစ်လ \n•Update By:JueHtet\n•Config By:JH ",
+"message":"Update 21 October 2021\n•Add Gaming Only Server\n•Version: 11\n•30ဘတ်ကိုတစ်လ \n•Update By:JueHtet\n•Config By:JH ",
    "title":"Add New Files" ,
-   "version": 10
+   "version": 11
 }
